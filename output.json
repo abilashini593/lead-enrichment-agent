@@ -1,0 +1,42 @@
+[
+  {
+    "company_overview": "Postman is an API platform for building and using APIs. It simplifies each step of the API lifecycle and streamlines collaboration to create better APIs faster.",
+    "icp": "Engineers, development teams, and enterprises of all sizes (from individuals to Fortune 500 companies) involved in building, testing, managing, and distributing APIs.",
+    "contact_points": [
+      "info@postman.com",
+      "info-jp@postman.com"
+    ],
+    "leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "role": "CEO and Co-founder",
+        "linkedin": null
+      },
+      {
+        "name": "Ankit Sobti",
+        "role": "Co-founder",
+        "linkedin": null
+      },
+      {
+        "name": "Abhijit Kane",
+        "role": "Co-founder",
+        "linkedin": null
+      }
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "company_overview": "Supabase is an open-source backend-as-a-service platform that provides developers with a suite of tools including a Postgres database, authentication, edge functions, storage, and real-time capabilities. It allows users to build and scale applications rapidly by integrating these best-of-breed products into a unified platform.",
+    "icp": "Supabase targets developers, startups, and fast-growing companies looking for a scalable, open-source backend solution to build and manage their applications, particularly those using frameworks like React, Next.js, Flutter, and Expo React Native.",
+    "contact_points": [],
+    "leadership": [],
+    "confidence_score": 0.85
+  },
+  {
+    "company_overview": "Vapi provides a platform for builders to create, deploy, and improve voice agents rapidly. It offers a unified platform with orchestration, real-time monitoring, and enterprise-grade configurability for scalable voice AI solutions.",
+    "icp": "Developers, builders, and enterprises looking to integrate voice AI agents for various use cases like customer support, lead qualification, and appointment scheduling, with a focus on scalability and compliance.",
+    "contact_points": [],
+    "leadership": [],
+    "confidence_score": 0.8
+  }
+]

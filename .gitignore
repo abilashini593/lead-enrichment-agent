@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*_metadata.json
+scratch/
+.system_generated/
