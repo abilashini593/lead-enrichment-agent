@@ -54,5 +54,5 @@ Usage
 To run the lead enrichment pipeline against a target domain, execute main.py:
 
 Bash
-python -m lead_enrichment.main
+python -m lead_enrichment.main --domains stripe.com postman.com supabase.com
 The output will be validated against the Pydantic schemas defined in models.py and saved directly to output.json.
